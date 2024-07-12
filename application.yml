@@ -1,1 +1,9 @@
+spring:
+  compatability_verifier:
+    enabled: false
 
+ boot:
+    admin:
+      client:
+        url: http://localhost:1111/
+    
